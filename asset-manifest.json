@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifequest-app/static/css/main.e6c13ad2.css",
+    "main.js": "/lifequest-app/static/js/main.da73f0ec.js",
+    "static/js/453.73a2b315.chunk.js": "/lifequest-app/static/js/453.73a2b315.chunk.js",
+    "index.html": "/lifequest-app/index.html",
+    "main.e6c13ad2.css.map": "/lifequest-app/static/css/main.e6c13ad2.css.map",
+    "main.da73f0ec.js.map": "/lifequest-app/static/js/main.da73f0ec.js.map",
+    "453.73a2b315.chunk.js.map": "/lifequest-app/static/js/453.73a2b315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.da73f0ec.js"
+  ]
+}
