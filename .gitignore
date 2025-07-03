@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+
+# Node.js
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+# production
+/build
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.idea
+.vs
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.iml
+*.ipr
+*.iws
+.cache
+.project
+.settings
+.classpath
+.c9
+.history
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.orig
+*.rej
+*~
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# Linux
+.directory
+
